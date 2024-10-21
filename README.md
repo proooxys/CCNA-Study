@@ -1,8 +1,7 @@
 # CCNA-Study
-Guide and commands for exam CISCO CCNA 200-301
+<h2>Guide and commands for exam CISCO CCNA 200-301</h2>
 
-Oficial Content - CISCO 
-200-301 CCNA v1.1 Exam Topics
+<h3>Oficial Content - CISCO 200-301 CCNA v1.1 Exam Topics</h3>
 
 <details>
 <summary> 1.0 Network Fundamentals           20% </summary>
@@ -26,8 +25,10 @@ Oficial Content - CISCO
 </details>
 <details> 
 <summary> 6.0 Automation and Programmability 10% </summary>
-
 </details> 
+
+* https://learningnetwork.cisco.com/s/ccna-exam-topics
+* https://learningcontent.cisco.com/documents/marketing/exam-topics/200-301-CCNA-v1.1.pdf
 
 ```mermaid
 pie title Percentage of questions by topic
@@ -40,6 +41,10 @@ pie title Percentage of questions by topic
 ```
 
 
+Introduction to Networking
 
-https://learningnetwork.cisco.com/s/ccna-exam-topics
-https://learningcontent.cisco.com/documents/marketing/exam-topics/200-301-CCNA-v1.1.pdf
+> [!NOTE]
+> Protocol Data Unit (PDU) - Cisco Model
+> Frame - Layer 2.
+> Packet - Layer 3.
+> Segment - Layer 4.
