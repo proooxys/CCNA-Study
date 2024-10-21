@@ -30,7 +30,7 @@ Oficial Content - CISCO
 </details> 
 
 ```mermaid
-pie
+pie title Percentage of questions by topic
 "Network Fundamentals" : 20
 "Network Access" : 20
 "IP Conectivity" : 25
