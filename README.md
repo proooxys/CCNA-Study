@@ -29,5 +29,17 @@ Oficial Content - CISCO
 
 </details> 
 
+```mermaid
+pie
+1.0 "Network Fundamentals" : 20
+2.0 "Network Access" : 20
+"IP Conectivity" : 25
+"IP Services" : 10
+"Security Fundamentals" : 15
+"Automation and Programmability" : 10
+```
+
+
+
 https://learningnetwork.cisco.com/s/ccna-exam-topics
 https://learningcontent.cisco.com/documents/marketing/exam-topics/200-301-CCNA-v1.1.pdf
