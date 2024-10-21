@@ -31,8 +31,8 @@ Oficial Content - CISCO
 
 ```mermaid
 pie
-1.0 "Network Fundamentals" : 20
-2.0 "Network Access" : 20
+"Network Fundamentals" : 20
+"Network Access" : 20
 "IP Conectivity" : 25
 "IP Services" : 10
 "Security Fundamentals" : 15
