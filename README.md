@@ -48,3 +48,7 @@ Introduction to Networking
 > Frame - Layer 2.
 > Packet - Layer 3.
 > Segment - Layer 4.
+
+
+* Same Layer Interaction - Communication between devices on the same layer
+* Adjacent Layer Interaction - refers to how the adjacent networking layers in the same computer interact to each other. The higher-layer protocol uses the next lower-layer protocol to perform the service it needed; the lower layer provides a service to the layer above it.
